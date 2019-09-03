@@ -1,14 +1,14 @@
-title: Ruilin Li @ Georgia Tech
+title: Qianli Hu @ Georgia Tech
 
-email: ruilin.li@gatech.edu
-github: http://github.com/ruilin-li
-linkedin: https://www.linkedin.com/in/ruilin-li-b71448bb/
-office: Room 146B, Skiles Building, 686 Cherry St
+email: qianli-hu@math.gatech.edu
+github: http://github.com/qianli-hu
+# linkedin: https://www.linkedin.com/in/ruilin-li-b71448bb/
+office: Room 152, Skiles Building, 686 Cherry St
 
 markdown: kramdown
 
-baseurl: /ruilin-li.github.io
+baseurl: /qianli-hu.github.io
 
-remoteurl: https://github.com/ruilin-li.github.io
+remoteurl: https://github.com/qianli-hu.github.io
 
 exclude: ['README.md']
